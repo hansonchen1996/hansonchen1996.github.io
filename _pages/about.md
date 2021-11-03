@@ -22,7 +22,7 @@ News
 **Oct 1, 2020** One paper accepted by [EclinicalMedicine](https://www.thelancet.com/journals/eclinm/home) published by the Lancet!
 
 
-My hobbies
+Hobbies
 ------
 In my normal life, I like knifes, mechanical watches and music!
 
