@@ -8,19 +8,19 @@ redirect_from:
   - /about.html
 ---
 
-I’m now a graduate student at China University of Geosciences (Wuhan). My research interests are focused on Person Re-identification, Cross-modality Image Retrieval, and Computer Vision.
+I’m now a graduate student at China University of Geosciences (Wuhan). My research interests are focused on **Person Re-identification** and **Cross-modality Image Retrieval**.
 
 I will move to [iFlytek](https://www.iflytek.com/index.html) mid next year, working as a Computer Vision Algorithm Engineer.
 
 News
 ======
-Oct 9, 2021 Winning National scholarship for Postgraduates!
+**Oct 9, 2021** Winning National scholarship for Postgraduates!
  
-Mar 1, 2021 One paper accepted by CVPR 2021!
+**Mar 1, 2021** One paper accepted by CVPR 2021!
 
-Oct 1, 2020 One paper accepted by [EclinicalMedicine](https://www.thelancet.com/journals/eclinm/home) published by the Lancet!
+**Oct 1, 2020** One paper accepted by [EclinicalMedicine](https://www.thelancet.com/journals/eclinm/home) published by the Lancet!
 
 
-For more info
+My hobbies
 ------
-More info about configuring academicpages can be found in [the guide](https://academicpages.github.io/markdown/). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
+In my normal life, I like knifes, mechanical watches and music!
