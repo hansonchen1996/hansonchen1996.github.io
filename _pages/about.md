@@ -10,7 +10,7 @@ redirect_from:
 
 I’m now a graduate student at China University of Geosciences (Wuhan). My research interests are focused on Person re-identification, Cross-modality Image Retrieval, and Computer Vision.
 
-I will move to iFlytek(https://www.iflytek.com/index.html), Hefei mid next year, working as an Algorithm Engineer of Computer Vision.
+I will move to [iFlytek](https://www.iflytek.com/index.html), Hefei mid next year, working as an Algorithm Engineer of Computer Vision.
 
 News
 ======
