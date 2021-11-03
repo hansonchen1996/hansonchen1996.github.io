@@ -14,6 +14,8 @@ I will move to [iFlytek](https://www.iflytek.com/index.html) mid next year, work
 
 News
 ======
+Oct 9, 2021 Winning National scholarship for Postgraduates!
+ 
 Mar 1, 2021 One paper accepted by CVPR 2021!
 
 Oct 1, 2020 One paper accepted by [EclinicalMedicine](https://www.thelancet.com/journals/eclinm/home) published by the Lancet!
