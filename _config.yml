@@ -82,13 +82,13 @@ analytics:
 author:
   name             : "Yehansen Chen"
   avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
-  location         : "Location"
-  employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
-  email            :
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  bio              : "Graduate Student, China University of Geosciences"
+  location         : "Wuhan, China"
+  employer         : "iFlytek"
+  #pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  googlescholar    : "https://scholar.google.com.hk/citations?user=ACnK5XUAAAAJ&hl=zh-CN"
+  email            : "chenyehansen@cug.edu.cn"
+  researchgate     : "https://www.researchgate.net/profile/Yehansen-Chen"
   uri              :
   bitbucket        :
   codepen          :
