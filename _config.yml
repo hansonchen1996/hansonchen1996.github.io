@@ -84,7 +84,7 @@ author:
   avatar           : "profile.png"
   bio              : "Graduate Student, China University of Geosciences"
   location         : "Wuhan, China"
-  employer         : "iFlytek"
+  #employer         : "iFlytek"
   #pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com.hk/citations?user=ACnK5XUAAAAJ&hl=zh-CN"
   email            : "chenyehansen@cug.edu.cn"
