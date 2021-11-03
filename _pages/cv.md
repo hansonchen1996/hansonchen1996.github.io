@@ -12,7 +12,7 @@ redirect_from:
 Education
 ======
 * B.S. in Software Engineering, Anhui University, 2018
-* M.S. in Software Engineering, China University of Geosciences(Wuhan), 2022
+* M.S. in Software Engineering, China University of Geosciences (Wuhan), 2022
 
 Work experience
 ======
