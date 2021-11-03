@@ -24,3 +24,5 @@ News
 My hobbies
 ------
 In my normal life, I like knifes, mechanical watches and music!
+
+![Image text](https://raw.githubusercontent.com/hansonchen1996/hansonchen1996.github.io/master/images/Hunting_Knives.jpg)
