@@ -1,5 +1,5 @@
 ---
-title: "Paper Title Number 2"
+title: "Neural Feature Search for RGB-Infrared Person Re-Identification"
 collection: publications
 permalink: https://openaccess.thecvf.com/content/CVPR2021/html/Chen_Neural_Feature_Search_for_RGB-Infrared_Person_Re-Identification_CVPR_2021_paper.html
 excerpt: 'This paper is about an automated feature selection method for RGB-Infrared Person Re-Identification.'
