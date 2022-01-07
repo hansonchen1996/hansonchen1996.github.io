@@ -11,7 +11,7 @@ redirect_from:
 
 I’m now a graduate student at China University of Geosciences (Wuhan). My research interests are focused on [Person Re-identification](https://paperswithcode.com/task/person-re-identification) and [Image Retrieval](https://paperswithcode.com/task/image-retrieval).
 
-I will move to [iFlytek](https://www.iflytek.com/index.html) mid next year, working as a Computer Vision Algorithm Engineer.
+I will move to [iFlytek](https://www.iflytek.com/index.html) mid this year, working as a Computer Vision Algorithm Engineer.
 
 News
 ======
