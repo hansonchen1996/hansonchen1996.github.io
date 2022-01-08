@@ -15,7 +15,7 @@ I will move to [iFlytek](https://www.iflytek.com/index.html) mid this year, work
 
 News
 ======
-**Oct 9, 2021** Winning National scholarship for Postgraduates!
+**Oct 9, 2021** Winning National Scholarship for Postgraduates!
  
 **Mar 1, 2021** One paper accepted by CVPR 2021!
 
