@@ -9,12 +9,12 @@ redirect_from:
 ---
 
 
-I’m now a graduate student at China University of Geosciences (Wuhan). My research interests are focused on [Person Re-identification](https://paperswithcode.com/task/person-re-identification) and [Image Retrieval](https://paperswithcode.com/task/image-retrieval).
-
-I will move to [iFlytek](https://www.iflytek.com/index.html) mid this year, working as a Computer Vision Algorithm Engineer.
+I’m now a a Computer Vision Algorithm Engineer at [iFlytek](https://www.iflytek.com/index.html) (Heifei). My research interests are focused on [Person Re-identification](https://paperswithcode.com/task/person-re-identification) and [Image Retrieval](https://paperswithcode.com/task/image-retrieval).
 
 News
 ======
+**Jun 30, 2022** Graduating from CUG!
+
 **Oct 9, 2021** Winning National Scholarship for Postgraduates!
  
 **Mar 1, 2021** One paper accepted by CVPR 2021!
