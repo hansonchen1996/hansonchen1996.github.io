@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 
-I’m now a a Computer Vision Algorithm Engineer at [iFlytek](https://www.iflytek.com/index.html) (Heifei). My research interests are focused on [Person Re-identification](https://paperswithcode.com/task/person-re-identification) and [Image Retrieval](https://paperswithcode.com/task/image-retrieval).
+I’m now a a Computer Vision Algorithm Engineer at [iFlytek](https://www.iflytek.com/index.html) (Hefei). My research interests are focused on [Person Re-identification](https://paperswithcode.com/task/person-re-identification) and [Image Retrieval](https://paperswithcode.com/task/image-retrieval).
 
 News
 ======
